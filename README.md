@@ -10,3 +10,5 @@
     o Voice chat
     o En ligne
 -	Début narrateur dit : « un monstre c’est introduit dans le bal! Trouve l’imposteur parmi les jouer et démasque le! » (+drôle?)
+
+yolo
