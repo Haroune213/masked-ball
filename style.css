@@ -1,0 +1,18 @@
+#main-header{
+    width: 100vw;
+    height: 100vh;
+}
+
+#main-menu{
+    width: 60vw;
+    height: 50vh;
+    background-color: aqua;
+    visibility: visible;
+}
+
+#jeu{
+    width: 60vw;
+    height: 50vh;
+    background-color: green;
+    visibility: hidden;
+}
